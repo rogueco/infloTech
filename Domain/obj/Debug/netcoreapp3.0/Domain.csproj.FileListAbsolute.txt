@@ -1,0 +1,9 @@
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/bin/Debug/netcoreapp3.0/Domain.deps.json
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/obj/Debug/netcoreapp3.0/Domain.csprojAssemblyReference.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfoInputs.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/obj/Debug/netcoreapp3.0/Domain.AssemblyInfo.cs
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/obj/Debug/netcoreapp3.0/Domain.csproj.CoreCompileInputs.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/obj/Debug/netcoreapp3.0/Domain.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/obj/Debug/netcoreapp3.0/Domain.pdb

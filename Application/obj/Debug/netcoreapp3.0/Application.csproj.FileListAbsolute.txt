@@ -1,0 +1,14 @@
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Application.deps.json
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Application.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Application.pdb
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.csprojAssemblyReference.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfoInputs.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.AssemblyInfo.cs
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.csproj.CoreCompileInputs.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.csproj.CopyComplete
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/Debug/netcoreapp3.0/Application.pdb

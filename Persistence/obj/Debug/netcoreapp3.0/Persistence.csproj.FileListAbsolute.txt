@@ -1,0 +1,12 @@
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb

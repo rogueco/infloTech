@@ -1,0 +1,73 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/Application.csproj",
+    "projectName": "Application",
+    "projectPath": "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/Application.csproj",
+    "outputPath": "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Application/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/Domain.csproj": {
+            "projectPath": "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Domain/Domain.csproj"
+          },
+          "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/Persistence.csproj": {
+            "projectPath": "/Users/tomfletcher/repos/Personal/Development/TechnicalInterviewTest/ReactWithDotNetCore/Persistence/Persistence.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.0.0, )"
+        },
+        "FluentValidation.AspNetCore": {
+          "target": "Package",
+          "version": "[8.6.2, )"
+        },
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+    }
+  }
+}
